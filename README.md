@@ -1,3 +1,4 @@
+[GitHub Profile](https://github.com/mbrwn65)
 # Interactive Visualization of NYC 311 Wait Times
 - image
 - overview
